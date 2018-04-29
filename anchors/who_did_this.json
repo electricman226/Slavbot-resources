@@ -1,0 +1,10 @@
+{
+    "command":      "wdt",
+    "anchorX":      0,
+    "anchorY":      104,
+    "width":        512,
+    "height":       299,
+    "file":         "wdt.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}
