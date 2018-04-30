@@ -1,0 +1,10 @@
+{
+    "command":      "reddit",
+    "anchorX":      27,
+    "anchorY":      19,
+    "width":        286,
+    "height":       292,
+    "file":         "reddit.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}

@@ -1,0 +1,10 @@
+{
+    "command":      "weed",
+    "anchorX":      0,
+    "anchorY":      243,
+    "width":        720,
+    "height":       464,
+    "file":         "weed.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}

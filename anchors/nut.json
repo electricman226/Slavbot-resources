@@ -1,0 +1,10 @@
+{
+    "command":      "nut",
+    "anchorX":      25,
+    "anchorY":      71,
+    "width":        414,
+    "height":       232,
+    "file":         "nut.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}

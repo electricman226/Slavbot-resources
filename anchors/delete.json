@@ -1,0 +1,10 @@
+{
+    "command":      "delet",
+    "anchorX":      23,
+    "anchorY":      13,
+    "width":        460,
+    "height":       472,
+    "file":         "delete.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}

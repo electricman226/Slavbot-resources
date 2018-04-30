@@ -1,0 +1,10 @@
+{
+    "command":      "btn",
+    "anchorX":      645,
+    "anchorY":      21,
+    "width":        276,
+    "height":       273,
+    "file":         "button.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}

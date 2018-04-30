@@ -1,0 +1,10 @@
+{
+    "command":      "god",
+    "anchorX":      38,
+    "anchorY":      23,
+    "width":        154,
+    "height":       154,
+    "file":         "god.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}
