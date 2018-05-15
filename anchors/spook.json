@@ -1,0 +1,10 @@
+{
+    "command":      "spook",
+    "anchorX":      5,
+    "anchorY":      8,
+    "width":        640,
+    "height":       314,
+    "file":         "spook.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}
