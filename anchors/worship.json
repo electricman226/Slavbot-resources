@@ -1,0 +1,10 @@
+{
+    "command":      "worship",
+    "anchorX":      720,
+    "anchorY":      503,
+    "width":        132,
+    "height":       128,
+    "file":         "worship.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}

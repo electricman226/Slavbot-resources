@@ -1,0 +1,11 @@
+
+{
+    "command":      "science",
+    "anchorX":      51,
+    "anchorY":      172,
+    "width":        924,
+    "height":       472,
+    "file":         "science.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}

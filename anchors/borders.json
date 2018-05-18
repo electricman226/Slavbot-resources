@@ -1,0 +1,10 @@
+{
+    "command":      "borders",
+    "anchorX":      57,
+    "anchorY":      37,
+    "width":        520,
+    "height":       323,
+    "file":         "borders.jpg",
+    "scaleType":    0,    
+    "anchorType":   0
+}
